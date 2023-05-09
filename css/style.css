@@ -1,0 +1,36 @@
+header{
+    background-color: lightgreen;
+    padding: 20px;
+
+}
+h2{
+    background-color: lightgreen;
+
+}
+h2{
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+
+}
+h1{
+    background-color: 	#00CD66;
+    border-radius: 20px;
+
+}
+main p{
+    background-color: 	#00CD66;
+    
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+footer{
+    background-color:#54FF9F;
+    
+    border-radius: 5px;
+    font-size: 20px;
+
+}
